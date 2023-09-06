@@ -1,2 +1,2 @@
 # MyFirstRepo
-I'm lirning html for the first time
+I'm larning html for the first time
